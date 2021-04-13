@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+.body{
+	background-color: #f1f1f1;
+}
+.imageee{
+	width: 305px;
+	height: 300px;
+	padding: 30px;
+	margin: 0px;
+}
+.d-block{
+	width: 600px;
+	height: 300px;
+}
+.aside-left{
+	color: white;
+	border-radius: 5px;
+	background-color: #212529;
+	width: 250px;
+}
+.aside-left span{
+	color: mediumpurple;
+	width: 250px;
+	background-color: black;
+	border-radius: 5px 5px 0px 0px;
+	height: 30px;
+}
+.aside-left span h3{
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+.aside-left li{
+	list-style-type: none;
+}
+.aside-left li a{
+	text-decoration: none;
+	color: white;
+}
+.card-title a{
+	text-decoration: none;
+	color: black;
+}
+.breadcrumb{
+	padding-left: 100px;
+	width: 100%;
+	height: 50px;
+	background-color:#9E00A2;
+}
+.breadcrumb-item{
+	font-size: 20px;
+	padding-top: 10px;
+}
+.breadcrumb-item a{
+	text-decoration: none;
+	color: white;
+}
+.login{
+	margin: 50px 400px 50px 400px;
+	border: 1px solid black;
+	border-radius: 10px;
+	width: 400px;
+	height: 420px;
+}
+#ddd{
+	background-color: white;
+	width: 398px;
+	height: 398px;
+	border-radius: 10px;
+}
+#ddd h3{
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 20px;
+	color: mediumpurple;
+}
+#ddd input[type=text]{
+	margin-left: 20px;
+	margin-top: 30px;
+	width: 360px;
+	height: 50px;
+	border-radius: 20px;
+}
+#ddd input[type=password]{
+	margin-left: 20px;
+	margin-top: 10px;
+	width: 360px;
+	height: 50px;
+	border-radius: 20px;
+}
+#ddd div a{
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+	padding-left: 120px;
+	padding-right: 120px;
+}
+#ddd div{
+	margin-left: 20px;
+	margin-top: 10px;
+	width: 360px;
+	height: 50px;
+	border-radius: 20px;
+	background-color: mediumpurple;
+}
